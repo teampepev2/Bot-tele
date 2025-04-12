@@ -1,0 +1,1 @@
+print("Bot sedang dibangun. Nantikan versi pertamanya!")
